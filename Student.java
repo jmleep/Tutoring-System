@@ -74,48 +74,6 @@ public class Student
   {
     return enrollDate;
   }
-  
-  /**
- * @param studentID the studentID to set
- */
-public void setStudentID(int studentID) {
-	this.studentID = studentID;
-}
-
-/**
- * @param firstName the firstName to set
- */
-public void setFirstName(String firstName) {
-	this.firstName = firstName;
-}
-
-/**
- * @param lastName the lastName to set
- */
-public void setLastName(String lastName) {
-	this.lastName = lastName;
-}
-
-/**
- * @param phone the phone to set
- */
-public void setPhone(String phone) {
-	this.phone = phone;
-}
-
-/**
- * @param balance the balance to set
- */
-public void setBalance(double balance) {
-	this.balance = balance;
-}
-
-/**
- * @param enrollDate the enrollDate to set
- */
-public void setEnrollDate(String enrollDate) {
-	this.enrollDate = enrollDate;
-}
 
 
   /**
